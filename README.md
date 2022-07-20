@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi! My name is Vladislav</h1>
+
+<p>
+  I'm Frontend developer from <b>Saint-Petersburg, Russia</b>.
+  <br />
+</p>
 
 <p>
   <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=grey" />
