@@ -1,5 +1,16 @@
 <h1 align="center">Hi! My name is Vladislav</h1>
 
+<h2 align="center">
+  <p align="center">
+    <a href="https://t.me/vsnilov" target="_blank" rel="noreferrer noopener">
+      <img alt="Tg" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/vsnilov" />
+    </a>
+    <a href="mailto:nilovweb@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nilovweb@gmail.com" />
+    </a>
+  </p>
+</h2>
+
 <p>
   I'm Frontend developer from <b>Saint-Petersburg, Russia</b>.
   <br />
